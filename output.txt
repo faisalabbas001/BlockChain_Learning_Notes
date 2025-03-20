@@ -1,0 +1,456 @@
+its notes is fallow this exapmle >->>>>>>>>>
+
+suppose in marrage hall so you have been recived that invitation and you have went the party and when you have enter in the 
+
+marrage hall so the gard check your invitation so and guard has check that yo record in the book which has been guard set 
+
+for all guest record its suppose like ledger so its check that ask you go that so you know that in this its accorately fully 
+
+security like enter that the unotherized person and perfrom any illegal activtity its very hramfull for all people 
+ 
+
+so in this seceneriou we have appllied that the BlockChain so like when the guest has been enter in the marrage hall so 
+
+guard has been check that its card and guard has been give that all list for the other people who has already enter in the hall
+
+so in this list all comming guest record has been saved so guard has been make that copy and give that all people who has been 
+
+in marrage hall so like when the new person has been enter that and guard has been annoucned that its named and all people 
+
+has been in hall so its already have list who people gust coming from all people has been checked that who comming people 
+
+when the unotherized person has been enter that its quickly caugth that its has unotherized person so in this guard has been 
+
+ set that the data Centralizes means not stored data at one place  so using ther BlockChain we can be easily data 
+
+Decentralized so in this the guard has been stored that the data has Decentralized so means the guard has been shared that 
+
+data all people all guest has access all data like ledger data access
+
+
+
+>>>>>>>>>>>>>>  ________________________________________________________________ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+what is the BlockChain  -->
+
+open distributed  ledger that can record transctions between two parties efficently  and in a verifiable  and 
+
+permanent way !!!!!  
+
+ledger ->>>>  ledger is the record of that the data which has been stored like information store  ... store lik node Book
+
+Data Centralizes ->>>>>.   its means that the data has been stored only one person like admin or one person
+
+Data Decentralized -->>>>.  its means that the data has been all person all people which has been eaily check that example
+
+is that the data has been access any one all memebers 
+
+the Data Decentralized has been used in BlockChain 
+
+CryptoGrapgy->>>>>>   its means that you have been made that the readable data in unreadable like 
+
+example that when  you write that faisal so you convert to werwe234234234 its means that CryptoGrapgy
+
+Crypto means that hidden and grappy means write its fully is write that the hidden information 
+
+
+encryption --->>>> its means that you have been write that simple word in to machine word like 
+
+you have been write that faisal and you have been convert that in encyption 
+
+Decription ->>>. its has been oposite that when you have been get that the machine code like 
+
+asdhaskjd234234hjk its Decription that faisal so its Decription
+
+
+Benefits of BlockChain
+
+transparency  ->>  using that build that the trest  when two parties has been build that the trest that 
+
+ so automaitcally the third party has been removed that like banks and other things 
+
+ no single point of failure  ->>>>
+
+  its means that when the laedger has been damage that and like store has been damage that so nothing has been the problem is 
+
+  that like you know that BlockChain provide that the facilty all member have records 
+
+  security  ->>>>>>
+
+    real time tracking --->>>>
+
+    its has been not changed that ---- >>>
+
+    like when you have been write that the any  things you have been not remove that you just added 
+
+    its not good and so add new one its better approach for security to detect data  from the hacker 
+
+    no third party has been included that in this - >>> 
+
+     example that the bank  and other  things has been not included that in this 
+
+     trusted transctions  --->>>
+
+     reduced cost -->>>
+
+                 --->>>>>    Smart Contract  --->>>
+
+ the smart contract is the promise between two parties like expamle 
+
+ one party has been sell the propert to two party so these party  has been done the smart contract in this 
+
+its has been no any need of the third party when the one party has been give the property so automairtcally
+using that the crytpocurrency its has been send that bitcoins automatically 
+
+
+     ->>>>>>>>>> Types of BlockChain  ->>>>>>>>>>>
+
+     (1)   public BlockChain
+
+     its like  politics parties in which all worker like a node so simpe in computer system 
+
+     is the parties has been announce that any one has been fill the form join the parties so 
+
+     this is public BlockChain 
+
+     (2)  Private BlockChain
+
+      its like that in software house many emlpoyees has been working that so thease employees has been
+
+      set that serverice is private means when the new employees has been join that its has been not access that 
+
+      the serverice of the present emlpoyees so its private BlockChain
+
+       its has been more used that compare to public BlockChain 
+
+       many company and agencies and other its has made that internal restriction so its fully made that private and work that
+
+  
+
+       (3)   HyBridge BlockChain   //   Federated  BlockChain   
+
+            in this  you have been give some access give to the public and you have been set  that instruction  / main accuess  private 
+             
+            in this you have been some give the permission to the public 
+
+
+
+    ->>>>>>>>>>>>>>>>    Nodes ->>>>>>>>>>>>>>
+  
+    node like computer which has been conncted with each other   
+
+    in this marrage hall expamle every guest as node so when the new guest has been arrived that and enter in hall 
+
+     and when its name has been annoucned that so other nodes has been check that over ledger so when some node has 
+
+     dotues like this comming node has unotherized so its has been check that record to other node like discuess its 
+
+     called communication between node 
+
+
+     -----  >>>>>   Types of Nodes  ---->>>>
+
+     (1)  Full Node
+
+     its node has been stored that all data has been stroed that  
+
+
+Example is ->  in family you know that the elder brother has all know information about the home and the little bother has 
+
+  know limited knowledge of the home so the elder brother is called Full Node and the little brother is called light Node
+
+     (2) Light Node
+
+     in this relevent data has been stored that which has been verify that 
+
+     (3)   Mining Node
+
+  its like in family member  you have been give the responsibiltiy you have been give that like you have been only done this 
+
+   role its so its Mining Node  
+
+
+->>>>  Hash ->>>>>>>
+
+Hash means  that convert text or  information readable into  unreadable so like example
+
+convert using the Hash Function  readable into unreadable
+
+minhaj University Lahore ->>>>>   EFYTU875456575BGNMKLJUR
+
+Hash has been generated through text or information when the text or information has been changed that 
+
+the hash has automairtcally changed that 
+
+
+--->>  Block -->
+
+Block means that  the when the two or many people has been done the transctions  its goes into Block
+
+
+ and then the minner like admin verify that and pass the blcok into BlockChain  
+
+
+ Block is the place in BlockChain where information and data has been stroed in encrypted 
+
+
+ ---->  blockchain ---->>>
+
+ in BlockChain the the block has been conncted with eachother like first has been generated that the hash and the second has 
+
+  made that the first and the third has been made that the second hash so this prcedure has been using that in blockchain 
+
+
+---> Mining in BlockChain ---->>>>
+
+ (1) What is the Mining  ???
+
+mining is person or computer how to been verified that the transctions and record and give the permission to the 
+
+the Block go in BlockChain  lock the Block which has been verified into BlockChain
+
+
+----->>> Discuss About that the DataBase and BlockChain ---->>>>
+
+(1)  Authority  
+
+IN Database the all information of the user has been fully access that the admin like Example is 
+
+ the facebook owner has all user data profiles and images when the user has been create that the profile and uploads 
+
+ that the image and data in the facebook the data has been strored in the facebook its fully accuess of the admin Mark Zerekbeg
+
+ IN BlockChain all nodes like people/computer has been conncted with eachother and all node has been get that information
+
+ of node and easily communicate with eachother like data has been Decentralized  when one node has been chnages that the data
+
+
+ in all node records has been chnaged that 
+
+ (2)  Architecture 
+
+BlockChain is distributed and the DataBase has client serverice
+
+client ->>  client is over computer broswer in which we have been enter that the data as input like interface
+
+we have been input data so its client 
+
+server   ->>  its point that the data or information has been stored that 
+
+
+ (3)   DataHnadling ->>>  
+
+BlockChain:   
+in this only has been readable and writeable 
+nothing has been other its made powerfull to the BlockChain  
+like in BlockChain store we can be only read and write data 
+
+    Data
+    /   /
+   /    /
+  /     /
+ /      /
+Read     Write 
+
+Convenstional DataBase ||  Tradional DataBase
+
+ in this data has been read write and delete and edit 
+
+
+ CRUD ->>  read || write || update || delete
+
+ perform all opertions in DataBase 
+
+
+
+(3)  intergrity 
+
+in BlockChain Nothing has been Data  changed that but in DataBases you can been eaily changed that data and information
+
+
+(4) Cost 
+
+Today BlockChain has been cost but when the harddrive has been fast that well its has been less 
+
+but the DataBase has been less not  need for any cost 
+
+
+
+(5) Performance  
+
+
+DataBase faster than BlockChain in DataBase Data has been stored in One place but in BlockChain the Data has been 
+
+stored Decentralized  like in BlockChain netwok 1000 node has been conncted that in these the data has been share that 
+
+its has been take some time 
+
+
+
+++++++++++++>>>>   Consensus mechnism  Algorithm BlockChain ++++++++++++++ >>>>>>
+
+in blockchain many way to get that the reviews  || descion  of the node 
+
+every company has made that own BlockChain  like weiBlock has made own BlockChain  and other things 
+
+in its depends on the company has made that blockchain according to own need
+
+its depends on the you have been set that nodes and who make the minging ........
+
+
+Example ->>>>>>>>>.  Election system  >>>>>>>>>>
+
+we made the prime minister so when we make that prime minister we make the  descion for all pakistan so when we chnaged that prime minister 
+
+we have been only descion  minimum people required so  Consensus mechnism  Algorithm BlockChain  this same that 
+
+when we have been write any thing in block we get that descion for all nodes which has been already conncted in the netwok  
+
+
+
+when the all nodes in the has been make that descion  ||  agreement  like which task has been added that so this prcedure is called Consensus
+
+mechnism Algorithm BlockChain .. 
+
+
+we can be make that Consensus mechnism  Algorithm BlockChain  ->>>
+
+
+>>>>>>>>>>>> uses of the BlockChain in Public records  >>>>>>>>>>>
+
+(1) Land Titles        (2)   Vehicals   Regitration    (3)    Business INCorporation  
+
+
+ (4)    Criminal REcorde    (5)     passports    (6) Birth Certificate 
+
+
+(7)  Death Certificate     (8)  Vote Regitration      (9)  Voting Records        
+
+
+
+(10)  Health / Saftey inspections       (11)  Court Records 
+
+
+
++++++++++++++++>>>>>>>>>>>>>>>>>> Component of BlockChain ++++++++++++++++++++<<<<<<<<<<<<<<<<<<<<<
+
+
+(1)CryptoGrapgy   (2)  Validity Rule   (3)  p2p netwok  ->>  person to person transctions send
+
+(4) ledger        (5)  Consensus mechnism
+
+
+++++++++++>>>>>>>>>>>>>>>  challeges Faced in BlockChain ++++++++++++++ <<<<<<<<<<<<<<<<<<<<<<<
+
+  (1)  Schalibility 
+
+  (2)  Processing Time 
+
+  (3)  51%  attack 
+
+  (4) Double Spending
+
+  (5) Bad Smart Contract  
+
+  (6) Storage
+
+  (7) First Mile and Last Mile Problem 
+
+  (8) Regulations
+
+  (9) Public Preception 
+
+  (10) Lack OF Skilled Staff 
+
+
++++++++++++++++++>>>>>>>>>>> crytpocurrency ++++++++++++++++++++++++>>>>>>>>>>>>>>>
+
+A cryptocurrency is a digital currency that works on a decentralized network using blockchain 
+
+technology. Unlike traditional money, it is not controlled by any government or bank.
+
+ Cryptocurrency is a revolutionary form of money that is digital, secure, and decentralized. 
+
+ It is used for payments, investments, and powering decentralized applications
+
+
+
+ +++++++++++++++>>>>>>>>>>>>>>  Consensus  mechnism Algorithm | Proof of Work  ++++++++++++++++>>>>>>>>>>>>>
+
+ Consensus Algorithm  this is tecniques || treqaqarr  in which all nodes  has been agreement and that so this called  Consensus Algorithm
+
+ Example: in BlockChain minimum 100 nodes has been conncetd that with each other and and when in new things has been 
+
+ added that so its give that agreement for  the all nodes  which has been conncted that in the network 
+
+ Consensus  ->> means which things is required for agreement
+
+ mechnism  ->> means all has been give the agreement
+ 
+
+(1)   Proof of Work
+
+  the  miner in blockchain is a person or a computer that validates and secures transactions on a blockchain network.
+
+   This process is called mining, and it involves solving complex mathematical problems to add new blocks to the blockchain.
+   
+    Miners are rewarded with cryptocurrency (e.g., Bitcoin) for their work
+
+
+  in network many node has been conncted that  with eachother so when the one node has been send that the transactions
+
+  so all nodes recived the broadcast || message so transactions so the minner has been minging that 
+
+  and validates the transactions when the minner has been validates the transactions so all nodes has been verify that 
+
+  when the all nodes has been agreed that the minging so the minner has been get the rewards like bitcoins ...
+
+  ++++++++++>>>> which things required for minging process ++++++++++>>>>>>>>>
+
+  first thing your computer has been very fast and strong hardware and you electircity bill more appear
+
+  accurate brain required 
+
+
+
+  in proof of work more security and engerg consumed like 
+
+  (1)  Nonce ->>>>>>>   minnner has been generated that random number 
+
+  security  ->>>>>>>>>>  
+
+  energy ->>>>>>>>>>>>   
+
+
+  +++++++++++++++ >>>>>>>>>>>>>>>  Proof of  Stack ++++++++++++++>>>>>>>>
+
+  proof os Stack will make the entire mining process virtual and replace minners with  validators ..
+
+  in the proof os stack its has been same of the minging process  in the proof of stack set that the requirement only which person 
+
+  has been start the mining which has been set that the bit like the minner has been want that mine so its has been first 
+
+  set the 10 token for start the minging so when the minner has been lost that minging process its 10 token has been lost 
+
+  that so when the minner has been win that the minging its has been get that the rewards according to the set that the bit during 
+
+  minging so its minner is called validators ......
+
+
+  stack ->>>  which has been set that the bit during minging ....
+
+  ap janta ha ka mining ma reward milta totoaly ka  ha sab kay jab minner min karta ha tu as ap ju ap na 
+
+  bet || shart lagai htoi ha like ap na 100 rupes lagai ha so as ka hisab sa ap ko feee milay ga as liya as ma minner to validaor khata ha 
+
+  no block reward 
+
+
+   
+
+
+  
+ 
+
+
