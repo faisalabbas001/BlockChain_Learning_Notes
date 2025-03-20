@@ -21,11 +21,11 @@ has been in hall so its already have list who people gust coming from all people
 
 when the unotherized person has been enter that its quickly caugth that its has unotherized person so in this guard has been 
 
- set that the data Centralizes means not stored data at one place  so using ther BlockChain we can be easily data 
+ set that the data Centralizes means not stored data at one place  so using the BlockChain we can be easily data 
 
 Decentralized so in this the guard has been stored that the data has Decentralized so means the guard has been shared that 
 
-data all people all guest has access all data like ledger data access
+data all people all guest has access all data 
 
 
 
@@ -38,17 +38,17 @@ open distributed  ledger that can record transctions between two parties efficen
 
 permanent way !!!!!  
 
-ledger ->>>>  ledger is the record of that the data which has been stored like information store  ... store lik node Book
+ledger ->>>>  ledger is the record of that the data which has been stored like information store  ... store like note  Book
 
 Data Centralizes ->>>>>.   its means that the data has been stored only one person like admin or one person
 
 Data Decentralized -->>>>.  its means that the data has been all person all people which has been eaily check that example
 
-is that the data has been access any one all memebers 
+is that the data has been access any one all memebers nodes
 
 the Data Decentralized has been used in BlockChain 
 
-CryptoGrapgy->>>>>>   its means that you have been made that the readable data in unreadable like 
+CryptoGrapgy->>>>>>   its means that you have been made that the readable data into unreadable form 
 
 example that when  you write that faisal so you convert to werwe234234234 its means that CryptoGrapgy
 
@@ -59,16 +59,16 @@ encryption --->>>> its means that you have been write that simple word in to mac
 
 you have been write that faisal and you have been convert that in encyption 
 
-Decription ->>>. its has been oposite that when you have been get that the machine code like 
+Decription ->>>. its has been opposite that when you have been get that the machine code like 
 
 asdhaskjd234234hjk its Decription that faisal so its Decription
 
 
 Benefits of BlockChain
 
-transparency  ->>  using that build that the trest  when two parties has been build that the trest that 
+transparency  ->>  using that build that the trust  when two parties has been build that the trust that 
 
- so automaitcally the third party has been removed that like banks and other things 
+ so automaitcally the third party has been removed that like banks and other things ....
 
  no single point of failure  ->>>>
 
@@ -98,10 +98,10 @@ transparency  ->>  using that build that the trest  when two parties has been bu
 
  the smart contract is the promise between two parties like expamle 
 
- one party has been sell the propert to two party so these party  has been done the smart contract in this 
+ one party has been sell the propert to second party so these party  has been done the smart contract in this 
 
-its has been no any need of the third party when the one party has been give the property so automairtcally
-using that the crytpocurrency its has been send that bitcoins automatically 
+its has been no any need of the third party when the one party has been give the property second party 
+using that the crytptocurrency its has been send that bitcoins automatically 
 
 
      ->>>>>>>>>> Types of BlockChain  ->>>>>>>>>>>
@@ -118,9 +118,9 @@ using that the crytpocurrency its has been send that bitcoins automatically
 
       its like that in software house many emlpoyees has been working that so thease employees has been
 
-      set that serverice is private means when the new employees has been join that its has been not access that 
+      set that service is private means when the new employees has been join that its has been not access that 
 
-      the serverice of the present emlpoyees so its private BlockChain
+      the service of the present emlpoyees so its private BlockChain
 
        its has been more used that compare to public BlockChain 
 
@@ -181,15 +181,15 @@ minhaj University Lahore ->>>>>   EFYTU875456575BGNMKLJUR
 
 Hash has been generated through text or information when the text or information has been changed that 
 
-the hash has automairtcally changed that 
+the hash has automatically changed that 
 
 
 --->>  Block -->
 
-Block means that  the when the two or many people has been done the transctions  its goes into Block
+Block  means that the when the two or many people has been done the transctions  its goes into Block like Container 
 
 
- and then the minner like admin verify that and pass the blcok into BlockChain  
+ and then the minner like admin verify that and pass the block into BlockChain  
 
 
  Block is the place in BlockChain where information and data has been stroed in encrypted 
@@ -197,7 +197,7 @@ Block means that  the when the two or many people has been done the transctions 
 
  ---->  blockchain ---->>>
 
- in BlockChain the the block has been conncted with eachother like first has been generated that the hash and the second has 
+ in BlockChain the the block has been connected with each other like first has been generated that the hash and the second has 
 
   made that the first and the third has been made that the second hash so this prcedure has been using that in blockchain 
 
@@ -206,9 +206,9 @@ Block means that  the when the two or many people has been done the transctions 
 
  (1) What is the Mining  ???
 
-mining is person or computer how to been verified that the transctions and record and give the permission to the 
+minner is person or computer how to been verified that the transctions and record and give the permission to the 
 
-the Block go in BlockChain  lock the Block which has been verified into BlockChain
+the Block go in BlockChain  lock the Block which has been verified and store  into BlockChain
 
 
 ----->>> Discuss About that the DataBase and BlockChain ---->>>>
@@ -219,14 +219,14 @@ IN Database the all information of the user has been fully access that the admin
 
  the facebook owner has all user data profiles and images when the user has been create that the profile and uploads 
 
- that the image and data in the facebook the data has been strored in the facebook its fully accuess of the admin Mark Zerekbeg
+ that the image and data in the facebook the data has been stored in the facebook its fully accuess of the admin Mark Zerekberg
 
  IN BlockChain all nodes like people/computer has been conncted with eachother and all node has been get that information
 
- of node and easily communicate with eachother like data has been Decentralized  when one node has been chnages that the data
+ of node and easily communicate with eachother like data has been Decentralized  when one node has been change that the data
 
 
- in all node records has been chnaged that 
+ in all node records has been changed that 
 
  (2)  Architecture 
 
@@ -301,7 +301,7 @@ its depends on the you have been set that nodes and who make the minging .......
 
 Example ->>>>>>>>>.  Election system  >>>>>>>>>>
 
-we made the prime minister so when we make that prime minister we make the  descion for all pakistan so when we chnaged that prime minister 
+we made the prime minister so when we make that prime minister we make the  descion for all pakistan so when we changed that prime minister 
 
 we have been only descion  minimum people required so  Consensus mechnism  Algorithm BlockChain  this same that 
 
@@ -314,7 +314,7 @@ when the all nodes in the has been make that descion  ||  agreement  like which 
 mechnism Algorithm BlockChain .. 
 
 
-we can be make that Consensus mechnism  Algorithm BlockChain  ->>>
+we can be make that Consensus mechnism  Algorithm BlockChain own build  ->>>
 
 
 >>>>>>>>>>>> uses of the BlockChain in Public records  >>>>>>>>>>>
@@ -447,7 +447,9 @@ technology. Unlike traditional money, it is not controlled by any government or 
   no block reward 
 
 
-   
+   +++++++++++>>>>>>>>>>>>>  Delegated Proof of Stake  ++++++++++++++++++++>>>>>>>
+
+
 
 
   
