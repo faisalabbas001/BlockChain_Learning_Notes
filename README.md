@@ -1,14 +1,3 @@
-
-
-
-
-
-
-input guradrails 
-
-
-
-
 # from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel, set_tracing_disabled,function_tool,RunContextWrapper
 # from pydantic import BaseModel
 # from typing import Any
@@ -76,7 +65,7 @@ input guradrails
 
 from agents import Agent,Runner,OpenAIChatCompletionsModel,set_tracing_disabled,AsyncOpenAI
 from pydantic import BaseModel
-from agents import input_guardrail,GuardrailFunctionOutput,RunContextWrapper,TResponseInputItem
+from agents import input_guardrail,output_guardrail,GuardrailFunctionOutput,RunContextWrapper,TResponseInputItem
 set_tracing_disabled(disabled=True)
 
 provider=AsyncOpenAI(
@@ -85,6 +74,11 @@ provider=AsyncOpenAI(
 )
 
 model=OpenAIChatCompletionsModel(openai_client=provider,model="gemini-2.0-flash-exp")
+
+
+class MessageOutput(BaseModel):
+    response: str
+
 
 
 class OutputResponse(BaseModel):
@@ -103,22 +97,40 @@ checker_input_security=Agent(
 async def input_guardrails_func(
     context:RunContextWrapper,agent:Agent,input:str | list[TResponseInputItem]
 )->GuardrailFunctionOutput:
+    print("👮‍♂️ Input Guardrail Check: is_cricket_related =", input)
     result=await Runner.run(checker_input_security,input)
+    print("👮‍♂️ Input Guardrail Check: is_cricket_related =", result.final_output.is_cricket_related)
+
     return GuardrailFunctionOutput(
         output_info=result.final_output,
         tripwire_triggered=not result.final_output.is_cricket_related
     )
 
 
+
+
+@output_guardrail
+async def check_output_security(
+    ctx: RunContextWrapper, agent: Agent, output: MessageOutput
+) -> GuardrailFunctionOutput:
+    print(f"Output: Guardrail triggered", output)
+    result = await Runner.run(checker_input_security, output, context=ctx.context)
+    print("🚓 Output Guardrail Check: is_cricket_related =", result.final_output.is_cricket_related)
+    return GuardrailFunctionOutput(
+        output_info=result.final_output,
+        tripwire_triggered= not result.final_output.is_cricket_related,
+    )
+
 main_agent=Agent(
     name="cricket agent",
     model=model,
     instructions="you are the helpfull for cricket game ",
-    input_guardrails=[input_guardrails_func]
+    input_guardrails=[input_guardrails_func],
+    output_guardrails=[check_output_security]
 )
 
 try:
-    response=Runner.run_sync(main_agent,input="how to play the volly ball")
+    response=Runner.run_sync(main_agent,input="how to play the football")
     print(response.final_output)
 except Exception as e:
-    print(e)
+    print("error is ",e)
